@@ -15,6 +15,7 @@ During the course students will learn and use several tools necessary for gettin
 - pandas
 - pandas_datareader
 - matplotlib
+- seaborn
 - quandl
  
 ## Installation 
